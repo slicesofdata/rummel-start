@@ -1,0 +1,41 @@
+# mac user file data
+.DS_Store
+
+# RStudio files and directories
+.Rproj.user
+.Rproj.user/
+
+# Project file to reduce confusion with student projects
+*.Rproj
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+*.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+.Rprofile
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# other build files
+*.rdb
+*.rdx
+
+# R Environment Variables
+.Renviron
+
+# RStudio Connect folder
+rsconnect/
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
